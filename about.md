@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an efficiency geek. I like to work to make things not only well, but as quickly as possible.
 
-### More Information
+### I've worked with...
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Linux, Python, R (in order of decreasing confidence). I've also worked with TensorFlow using the Keras wrapper for some basic deep learning, and know my way around plotting using ggplot2.
 ### Contact me
 
 [ganatradarpan@gmail.com](mailto:ganatradarpan@gmail.com)
