@@ -9,6 +9,6 @@ I'm an efficiency geek. I like to work to make things not only well, but as quic
 ### I've worked with...
 
 Linux, Python, R (in order of decreasing confidence). I've also worked with TensorFlow using the Keras wrapper for some basic deep learning, and know my way around plotting using ggplot2.
-### Contact me
+### Contact me for further questions/resume
 
 [ganatradarpan@gmail.com](mailto:ganatradarpan@gmail.com)
