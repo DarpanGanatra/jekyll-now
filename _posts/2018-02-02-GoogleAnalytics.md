@@ -15,6 +15,10 @@ There's also something called goals, which will be talked about later on.
 
 **_Note to reader_**  Here there's a demo section, where you can set up a Google Analytics account and install a code all in the tutorial
 
+Under the Admin section, you can add more views, in order to test things. We created a Test View and filtered out bot traffic (under bot filtering). 
+Creating another view is as simple as just saying "Copy View."
+At this point it's important to note that the tutorial has made us create "Test View," "Raw Data," and "Master View." Raw data is what it sounds like: unfiltered, no bot traffic taken out. Test view has the bot traffic taken out. Then we copy Test view and call it Master View. 
 
+If you have filters that you're using in the Test View (for example excluding internal traffic), you can apply it to Master View by actually just going to Filters ~> Apply Existing Filter. Remember **order of filters matter**.
 
 [Link to the tutorial!](https://analytics.google.com/analytics/academy/)
